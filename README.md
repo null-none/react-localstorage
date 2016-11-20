@@ -12,7 +12,7 @@ npm install reactjs-localstorage
 ## Example
 
 ```javascript
-import reactLocalStorage from 'react-localstorage';
+import reactLocalStorage from 'reactjs-localstorage';
 
 reactLocalStorage.set('var', true);
 ```
