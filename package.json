@@ -1,0 +1,12 @@
+{
+  "name": "react-localstorage",
+  "version": "0.0.1",
+  "description": "Easy use localstorage in Reactjs",
+  "main": "react-localstorage.js",
+  "keywords": [
+    "reactjs",
+    "localstorage"
+  ],
+  "author": "Dmitry Kalinin",
+  "license": "MIT",
+}
