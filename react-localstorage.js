@@ -1,4 +1,4 @@
-const reactLocalStorage = {
+exports.reactLocalStorage = {
     set: function(key, value) {
         localStorage[key] = value;
         return localStorage[key];
@@ -17,5 +17,3 @@ const reactLocalStorage = {
         return localStorage.clear();
     }
 }
-
-export default reactlocalStorage;
