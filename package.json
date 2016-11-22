@@ -1,11 +1,13 @@
 {
   "name": "reactjs-localstorage",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Easy use localstorage in Reactjs",
   "main": "react-localstorage.js",
   "keywords": [
     "reactjs",
-    "localstorage"
+    "localstorage",
+    "react",
+    "local storage"
   ],
   "url" : "https://github.com/null-none/react-localstorage/issues",
   "author": "Dmitry Kalinin",
