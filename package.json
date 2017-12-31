@@ -1,6 +1,6 @@
 {
   "name": "reactjs-localstorage",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Easy use localstorage in Reactjs",
   "main": "react-localstorage.js",
   "repository": {
