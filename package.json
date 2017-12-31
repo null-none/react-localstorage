@@ -3,13 +3,15 @@
   "version": "0.0.5",
   "description": "Easy use localstorage in Reactjs",
   "main": "react-localstorage.js",
-  "keywords": [
-    "reactjs",
-    "localstorage",
-    "react",
-    "local storage"
-  ],
-  "url" : "https://github.com/null-none/react-localstorage/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/null-none/react-localstorage.git"
+  },
+  "keywords": ["reactjs", "localstorage", "react", "local storage"],
+  "bugs": {
+    "url": "https://github.com/null-none/react-localstorage/issues"
+  },
+  "homepage": "https://github.com/null-none/react-localstorage",
   "author": "Dmitry Kalinin",
   "license": "MIT"
 }
