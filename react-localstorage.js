@@ -15,5 +15,8 @@ exports.reactLocalStorage = {
     },
     clear: function() {
         return localStorage.clear();
+    },
+    remove: function(key) {
+        return localStorage.removeItem(key);
     }
 }
