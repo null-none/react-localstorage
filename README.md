@@ -26,16 +26,16 @@ reactLocalStorage.clear();
 ```
 
 ## API Guide
-##### `reactLocalStorage.set(key, value)`
-##### `reactLocalStorage.get(key, deafultValue=undefined, silent=true)`
-##### `reactLocalStorage.setObject(key, object)`
-##### `reactLoacStorage.getObject(key, defaultValue={}, silent=false)`
-##### `reactLocalStorage.remove(key)`
-##### `reactLocalStorage.clear()`
+- `reactLocalStorage.set(key, value)`
+- `reactLocalStorage.get(key, deafultValue=undefined, silent=true)`
+- `reactLocalStorage.setObject(key, object)`
+- `reactLoacStorage.getObject(key, defaultValue={}, silent=true)`
+- `reactLocalStorage.remove(key)`
+- `reactLocalStorage.clear()`
 
-#### silent:
-- **true**: Will not throw exception instead will return defaultValue
-- **false**: Will throw exception
+**silent**:
+- `true`: Will not throw exception instead will return defaultValue
+- `false`: Will throw exception
 
 ## License
 MIT
