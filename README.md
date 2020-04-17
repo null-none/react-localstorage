@@ -1,6 +1,8 @@
 # reactLocalStorage
 Easy use localstorage in Reactjs
 
+https://www.npmjs.com/package/reactjs-localstorage [https://www.npmjs.com/package/reactjs-localstorage]
+
 
 ## Installation
 
