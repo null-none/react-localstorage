@@ -1,3 +1,7 @@
+if (!localStorage) {
+    var localStorage = {};
+}
+
 exports.reactLocalStorage = {
     set: function(key, value) {
         localStorage[key] = value;

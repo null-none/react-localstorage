@@ -27,6 +27,12 @@ reactLocalStorage.remove('var');
 reactLocalStorage.clear();
 ```
 
+## Test
+
+```bash
+npm run test
+```
+
 ## API Guide
 - `reactLocalStorage.set(key, value)`
 - `reactLocalStorage.get(key, deafultValue=undefined, silent=true)`

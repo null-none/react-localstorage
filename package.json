@@ -1,15 +1,27 @@
 {
   "name": "reactjs-localstorage",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "description": "Easy use localstorage in Reactjs",
   "main": "react-localstorage.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/null-none/react-localstorage.git"
   },
-  "keywords": ["reactjs", "localstorage", "react", "local storage"],
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "reactjs",
+    "localstorage",
+    "react",
+    "local storage"
+  ],
   "bugs": {
     "url": "https://github.com/null-none/react-localstorage/issues"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
   },
   "homepage": "https://github.com/null-none/react-localstorage",
   "author": "Dmitry Kalinin",
