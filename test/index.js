@@ -1,7 +1,3 @@
-if (!localStorage) {
-    var localStorage = {};
-}
-
 var should = require("chai").should(),
   app = require("../react-localstorage");
 
