@@ -1,5 +1,10 @@
+if (!localStorage) {
+    var localStorage = {};
+}
+
 var should = require("chai").should(),
   app = require("../react-localstorage");
+
 
 describe("check methods get and set", function () {
   it("boolean", function () {
