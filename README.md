@@ -51,5 +51,3 @@ MIT
 ## Donation Button
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YYZQ6ZRZ3EW5C)
-
-[![Contact me on Codementor](https://www.codementor.io/m-badges/byte-up/im-a-cm-b.svg)](https://www.codementor.io/@byte-up?refer=badge)
