@@ -4,7 +4,7 @@ exports.reactLocalStorage = {
         return localStorage[key];
     },
     get: function(key, defaultValue=undefined, silent=true) {
-        var value = localStorage[key] || defaultValue;
+        var value = localStorage.hasOwnProperty(key) ? localStorage[key] : defaultValue;
 
         // if silent=false throw error
         if(!silent && !value)
