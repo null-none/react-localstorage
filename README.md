@@ -37,7 +37,7 @@ npm run test
 - `reactLocalStorage.set(key, value)`
 - `reactLocalStorage.get(key, deafultValue=undefined, silent=true)`
 - `reactLocalStorage.setObject(key, object)`
-- `reactLoacStorage.getObject(key, defaultValue={}, silent=true)`
+- `reactLocalStorage.getObject(key, defaultValue={}, silent=true)`
 - `reactLocalStorage.remove(key)`
 - `reactLocalStorage.clear()`
 
